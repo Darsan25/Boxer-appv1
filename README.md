@@ -1,2 +1,2 @@
 # boxing-appv1
-bocer app
+boxer app
